@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ArrowDown, ArrowUpRight, Mail, Star } from "lucide-react";
 import member01 from "@/assets/member-01.jpg.asset.json";
-import member02 from "@/assets/member-02.jpg.asset.json";
+import member02 from "@/assets/member-02b.jpg.asset.json";
 import member03 from "@/assets/member-03.jpg.asset.json";
 import zuri from "@/assets/family-zuri.jpg";
 import member05 from "@/assets/member-05.png.asset.json";
