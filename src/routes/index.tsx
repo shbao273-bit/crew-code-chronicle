@@ -125,7 +125,7 @@ function Index() {
 
       <div className="marquee border-b border-foreground/20 bg-primary py-3 text-primary-foreground">
         <div className="marquee-track font-display text-2xl uppercase md:text-4xl">
-          FAMILY FIRST — LEGACY — ALL LOVE — BLOOD — FAMILY FIRST — BOND — ALL LOVE — CHAOS — FAMILY GENES a0
+          FAMILY FIRST — LEGACY — ALL LOVE — BLOOD — FAMILY FIRST — BOND — ALL LOVE — CHAOS — FAMILY GENES   
         </div>
       </div>
 
