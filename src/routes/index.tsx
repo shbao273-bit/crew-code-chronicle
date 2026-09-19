@@ -4,7 +4,7 @@ import familyPhoto from "@/assets/family-photo.jpg.asset.json";
 import nia from "@/assets/family-nia.jpg";
 import jay from "@/assets/family-jay.jpg";
 import zuri from "@/assets/family-zuri.jpg";
-import milo from "@/assets/family-milo.jpg";
+import member05 from "@/assets/member-05.png.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -73,7 +73,7 @@ const members = [
     personality: "Maximum volume",
     favorite: "Cereal at any hour",
     description: "Smallest in the crew. Biggest opinions. Never met a couch he couldn't jump from.",
-    image: milo,
+    image: member05.url,
     rotation: "md:rotate-1",
   },
 ];
