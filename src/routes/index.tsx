@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ArrowDown, ArrowUpRight, Mail, Star } from "lucide-react";
-import familyPhoto from "@/assets/family-photo.jpg.asset.json";
+import member01 from "@/assets/member-01.jpg.asset.json";
 import member02 from "@/assets/member-02.jpg.asset.json";
 import jay from "@/assets/family-jay.jpg";
 import zuri from "@/assets/family-zuri.jpg";
@@ -29,7 +29,7 @@ const members = [
     personality: "Cool under pressure",
     favorite: "Sunday vinyl sessions",
     description: "Can fix anything except the Wi-Fi. Claims every old-school beat was better.",
-    image: familyPhoto.url,
+    image: member01.url,
     rotation: "md:-rotate-2",
   },
   {
