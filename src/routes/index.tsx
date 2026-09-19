@@ -24,7 +24,7 @@ const members = [
   {
     number: "01",
     name: "Marcus",
-    nickname: "Big M",
+    nickname: "HOÀI VĂN",
     role: "The Captain",
     personality: "Cool under pressure",
     favorite: "Sunday vinyl sessions",
@@ -35,7 +35,7 @@ const members = [
   {
     number: "02",
     name: "Nia",
-    nickname: "The Blueprint",
+    nickname: "NGUYỄN THU",
     role: "The Mastermind",
     personality: "Sharp, warm, unstoppable",
     favorite: "Late-night kitchen dancing",
@@ -46,7 +46,7 @@ const members = [
   {
     number: "03",
     name: "Jay",
-    nickname: "J-Sound",
+    nickname: "HOÀI ANH",
     role: "The DJ",
     personality: "Low-key chaos",
     favorite: "Making impossible playlists",
@@ -57,7 +57,7 @@ const members = [
   {
     number: "04",
     name: "Zuri",
-    nickname: "Z",
+    nickname: "HOÀI AN",
     role: "The Creative",
     personality: "Bold with zero filter",
     favorite: "Sketchbooks & sneakers",
@@ -68,7 +68,7 @@ const members = [
   {
     number: "05",
     name: "Milo",
-    nickname: "Lil' Trouble",
+    nickname: "HOÀI BẢO",
     role: "The Wild Card",
     personality: "Maximum volume",
     favorite: "Cereal at any hour",
@@ -99,8 +99,8 @@ function Index() {
       </header>
 
       <section className="relative min-h-[940px] border-b border-foreground/15 px-5 pb-20 pt-28 md:min-h-[900px] md:px-10 md:pt-36">
-        <div className="absolute left-[3%] top-32 z-20 -rotate-12 bg-primary px-4 py-2 font-marker text-2xl text-primary-foreground shadow-sticker md:left-[7%] md:top-44">EST. 2008</div>
-        <p className="absolute right-5 top-28 z-20 rotate-3 border-2 border-foreground px-3 py-1 font-condensed text-sm font-black uppercase md:right-12">Parental advisory: loud family</p>
+        <div className="absolute left-[3%] top-32 z-20 -rotate-12 bg-primary px-4 py-2 font-marker text-2xl text-primary-foreground shadow-sticker md:left-[7%] md:top-44">TRAN SICNE 1996</div>
+        <p className="absolute right-5 top-28 z-20 rotate-3 border-2 border-foreground px-3 py-1 font-condensed text-sm font-black uppercase md:right-12">GIA TỘC HỌ TRẦN X 131LABEL.</p>
 
         <div className="relative z-10 mx-auto max-w-[1500px]">
           <div className="relative text-center">
@@ -125,17 +125,17 @@ function Index() {
 
       <div className="marquee border-b border-foreground/20 bg-primary py-3 text-primary-foreground">
         <div className="marquee-track font-display text-2xl uppercase md:text-4xl">
-          Family first — no skips — all love — full volume — family first — no skips — all love — full volume —
+          FAMILY FIRST — LEGACY — ALL LOVE — BLOOD — FAMILY FIRST — BOND — ALL LOVE — CHAOS — FAMILY GENES   
         </div>
       </div>
 
       <section id="crew" className="section-space mx-auto max-w-[1500px] px-5 md:px-10">
         <div className="mb-14 flex items-end justify-between gap-8 md:mb-24">
           <div>
-            <span className="section-kicker">The lineup / 01—05</span>
-            <h2 className="section-title">Meet the<br /><span className="text-primary">crew.</span></h2>
+            <span className="section-kicker">MEMBER</span>
+            <h2 className="section-title">MEET MY<br /><span className="text-primary">FAMILY.</span></h2>
           </div>
-          <p className="hidden max-w-xs font-condensed text-lg uppercase leading-tight text-muted-foreground md:block">Five different frequencies.<br />One unmistakable sound.</p>
+          <p className="hidden max-w-xs font-condensed text-lg uppercase leading-tight text-muted-foreground md:block">NĂM NGƯỜI.<br />NĂM TẦN SỐ.</p>
         </div>
 
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-6">
